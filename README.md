@@ -69,3 +69,9 @@ No outputs.
 
 [M3AAWG Protecting Parked Domains Best Common Practices]: https://www.m3aawg.org/sites/default/files/m3aawg_parked_domains_bcp-2022-06.pdf
 [RFC 7505]: https://datatracker.ietf.org/doc/rfc7505/
+
+
+## Related modules
+
+- [terraform-aws-parked-domain-baseline](https://github.com/nozaq/terraform-aws-parked-domain-baseline): The module to accomplish same outcome with AWS Route53 instead of Cloudflare DNS.
+- [terraform-google-parked-domain-baseline](https://github.com/nozaq/terraform-cloudflare-parked-domain-baseline): The module to accomplish same outcome with GCP Cloud DNS instead of Cloudflare DNS.
